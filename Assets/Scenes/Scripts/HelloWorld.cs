@@ -9,7 +9,7 @@ public class HelloWorld : MonoBehaviour
     {
         
   Debug.Log("Hello, all!");
-  Debug.Log("branch test!");
+  Debug.Log("branch test#1!");
     }   
 
  void Update()
