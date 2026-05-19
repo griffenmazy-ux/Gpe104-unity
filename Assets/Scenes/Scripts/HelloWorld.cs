@@ -1,6 +1,6 @@
 using System.Collections; 
 using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine; 
 
 
 public class HelloWorld : MonoBehaviour
@@ -8,9 +8,8 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         
-  Debug.Log("Hello, test1!");
+  Debug.Log("Hello, test!");
   
- 
 
     }   
 
