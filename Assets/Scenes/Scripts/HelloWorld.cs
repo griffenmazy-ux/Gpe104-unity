@@ -8,8 +8,8 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         
-  Debug.Log("Hello, teacher!");
-  Debug.Log("Hello, planet earth!");
+  Debug.Log("Hello, all!");
+  Debug.Log("branch test!");
     }   
 
  void Update()
