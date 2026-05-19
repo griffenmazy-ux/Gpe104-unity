@@ -8,9 +8,8 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         
-  Debug.Log("Hello, all!");
-  Debug.Log("branch test#1!");
-  Debug.Log("branch test#2!");
+  Debug.Log("Hello, test!");
+  
 
     }   
 
