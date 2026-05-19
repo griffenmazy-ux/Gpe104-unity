@@ -1,5 +1,6 @@
 using System.Collections; 
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 
 
@@ -10,10 +11,12 @@ public class HelloWorld : MonoBehaviour
         
   Debug.Log("Hello, all!");
   Debug.Log("branch test#1!");
+  Debug.Log("branch test#2!");
+  
     }   
 
  void Update()
     {
-       Debug.Log("Hello, world!");
+      
     }
 }
