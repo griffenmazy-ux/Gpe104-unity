@@ -9,7 +9,7 @@ public class HelloWorld : MonoBehaviour
     {
         
   Debug.Log("Hello, teacher!");
-  
+  Debug.Log("Hello, planet earth!");
     }   
 
  void Update()
